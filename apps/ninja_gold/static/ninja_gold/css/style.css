@@ -1,0 +1,28 @@
+#gain_or_lose{
+    width: 1000px;
+    height: 300px;
+    border: 2px dotted cornflowerblue;
+    display: inline-block;
+    text-align: top;
+}
+.box{
+    text-align: center;
+    margin-left:30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    text-align: top;
+    border: 1px dotted red;
+ 
+}
+#topd{
+    width: 800px;
+    height: 100px;
+    display: inline-block;
+    text-align: top;
+}
+.top{
+    margin-left: 40px;
+    display: inline-block;
+}
